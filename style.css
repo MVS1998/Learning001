@@ -1,0 +1,28 @@
+.calculator{
+    width:400px;
+    height:600px;
+    background: #383434;
+    padding-top: 10px;
+    margin-left: 400px;
+}
+body{
+    margin-top: 0;
+}
+.screen{
+    width:350px;
+    height: 100px;
+    background: white;
+    margin-left: 24px;
+    border: black;
+    pointer-events: none;
+}
+.btn{
+    width:60px;
+    height:45px;
+    background: white;
+    margin-left: 30px;
+    margin-top: 30px;
+    border: black;
+    cursor: pointer;
+    
+}
